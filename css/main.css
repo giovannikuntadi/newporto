@@ -1,0 +1,24 @@
+.jumbotron {
+  background-image: url("../img/vipul_jha.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position-y: -100px;
+  background-attachment: fixed;
+  height: 420px;
+}
+
+.pp {
+  height: 15em;
+}
+
+#project {
+  background-image: url("../img/vipul_jha.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-position-y: -100px; */
+  background-attachment: fixed;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
